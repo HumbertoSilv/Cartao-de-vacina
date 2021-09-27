@@ -1,0 +1,6 @@
+def register_vaccination():
+    ...
+
+
+def get_vaccination():
+    ...
