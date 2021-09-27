@@ -1,2 +1,4 @@
 /venv
-'postgresql://seu_usuario:sua_senha@localhost:5432/seu_banco'
+**__pycache__
+.vscode
+.env
