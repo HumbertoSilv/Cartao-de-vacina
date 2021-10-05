@@ -1,5 +1,6 @@
 from flask import Flask
-from app.configs import database, migrate, env_configs
+
+from app.configs import database, env_configs, migrate
 from app.routes import vaccination_bp
 
 

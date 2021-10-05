@@ -1,6 +1,6 @@
 from app.exc.vaccine_exc import InvalidCpfError
-from flask import request, current_app, jsonify
 from app.models.vaccine_model import Vaccine
+from flask import current_app, jsonify, request
 
 
 def register_vaccination():
